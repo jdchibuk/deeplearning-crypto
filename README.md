@@ -32,3 +32,5 @@ Within (2) run - dev environment python 3.2 attached is Conda
 	jupyter notebook
 
 	run through cells to generate new prediction results
+
+be sure to delete the pair_history_ethcad.db each time you run the notebook as the table will data will trend to infiniti or 0 otherwise
