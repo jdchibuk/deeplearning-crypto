@@ -33,7 +33,7 @@ e = 'quadriga'
 exchange = Exchange(e, exc[e]['can_buy'], exc[e]['can_sell'], exc[e]['account'], debug)
 
 #enter your own quadriga ethereum address here
-eth_quadriga_address = '0x37cb3fdc3dd5ad981dac4d89fe91a34149dd0fa3' 
+eth_quadriga_address = '' 
 
 coin = 'ether'
 amount = 0.0
