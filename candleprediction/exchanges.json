@@ -1,0 +1,16 @@
+{
+  "coins": [
+    "bitcoin",
+    "litecoin",
+    "ether"
+  ],
+  "exchanges": [
+    "quadriga"
+  ],
+  "quadriga": {
+    "account":"./quadriga.key",
+    "can_sell": true,
+    "can_buy" : true,
+    "kraken_address": ""
+  }
+}
